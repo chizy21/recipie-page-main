@@ -16,8 +16,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://github.com/chizy21/recipie-page-main)
-- Live Site URL: [Add live site URL here](https://friendly-empanada-99b051.netlify.app//)
+- Solution URL: [Github](https://github.com/chizy21/recipie-page-main)
+- Live Site URL: [Netlify](https://friendly-empanada-99b051.netlify.app//)
 
 ## My process
 
